@@ -1,7 +1,9 @@
-# Music Player  
-## About The Project Builded the music player using Javascript
+# Music Player
 
-## About The Project
+About The Project Builded the music player using Javascript
+
+# About The Project
+
 Builded the music player using Javascript,HTML,CSS
 
 ## My Website
